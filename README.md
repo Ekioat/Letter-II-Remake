@@ -13,6 +13,15 @@ Make sure you checked "Audio recording" to get Audio Visualization.<br/><br/>
 ***IMPORTANT***\
 Make sure you selected `Enable`/`Ultra` `Post-processing` in `Wallpaper Engine settings` because i used bloom for wallpaper.<br/><br/>
 
+***BEST PLAYBACK SETTINGS (My opinion)***\
+Other application focused: `Keep running`<br/>
+Other application maximized: `Pause`<br/>
+Other application fullscreen: `Stop (free memory)`<br/>
+Other application playing audio: `Keep running`<br/>
+Display asleep: `Stop (free memory)`<br/>
+Laptop on battery: `Keep running`<br/>
+FPS: depend on your computer: lowest is `24fps`, highest is max if you want :))<br/><br/>
+
 ***HOW TO INSTALL MANUAL AND EDIT***
 1. Copy `letter_ii_remake` folder to *`"X:\Steam\steamapps\common\wallpaper_engine\projects\myprojects\"`* or *`"C:\Program Files (x86)\Steam\..."`* - if you installed steam in C disk.
 2. Restart wallpaper engine and you can see a duplicate wallpaper. Select it and click `Open in editor`. Enjoy!<br/>
