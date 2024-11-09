@@ -1,0 +1,23 @@
+{
+  "theme": "",
+  "controlStyles[0].target": "Windows.UI.Xaml.Controls.Grid#ShowMoreSuggestions",
+  "controlStyles[0].styles[0]": "Visibility=Collapsed",
+  "resourceVariables[0].variableKey": "",
+  "resourceVariables[0].value": "",
+  "controlStyles[1].styles[0]": "Visibility=Collapsed",
+  "controlStyles[2].styles[0]": "Visibility=Collapsed",
+  "controlStyles[1].target": "Windows.UI.Xaml.Controls.Grid#SuggestionsParentContainer",
+  "controlStyles[2].target": "Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsListHeader",
+  "controlStyles[3].target": "StartMenu.PinnedList",
+  "controlStyles[3].styles[0]": "Height=504",
+  "controlStyles[4].target": "Border#AcrylicBorder",
+  "controlStyles[4].styles[0]": "CornerRadius=30",
+  "controlStyles[5].target": "Border#AcrylicOverlay",
+  "controlStyles[6].target": "Border#DropShadow",
+  "controlStyles[6].styles[0]": "CornerRadius=30",
+  "controlStyles[7].target": "StartDocked.PowerOptionsView > StartDocked.NavigationPaneButton > Grid > Border",
+  "controlStyles[7].styles[0]": "CornerRadius=99",
+  "controlStyles[8].target": "Border#ContentBorder",
+  "controlStyles[8].styles[0]": "CornerRadius=15",
+  "controlStyles[5].styles[0]": "Visibility=1"
+}
