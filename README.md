@@ -17,7 +17,7 @@ Make sure you selected `Enable`/`Ultra` `Post-processing` in `Wallpaper Engine s
 Other application focused: `Keep running`<br/>
 Other application maximized: `Pause`<br/>
 Other application fullscreen: `Stop (free memory)`<br/>
-Other application playing audio: `Keep running`<br/>
+Other application playing audio: `Mute`<br/>
 Display asleep: `Stop (free memory)`<br/>
 Laptop on battery: `Keep running`<br/>
 FPS: depend on your computer: lowest is `24fps`, highest is max if you want :))<br/><br/>
